@@ -1,0 +1,4 @@
+﻿Weight at Layer 1:
+0.5,0.5,0.5
+Bias at Layer 1:
+0.5
